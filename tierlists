@@ -1,0 +1,24 @@
+<html>
+
+<head>
+ <title>bunny's tier lists</title>
+ </head>
+ <style>
+    body {
+      background-color: #4af94b;
+      color: black;
+      font-family: Arial, sans-serif;
+    }
+</style>
+
+<body>
+
+<a href="tierlists.html">Go to Tier Lists</a>
+
+
+
+<a href="bunnywebsite.html">Home</a>
+
+</body>
+
+</html>
